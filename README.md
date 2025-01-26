@@ -21,7 +21,7 @@ Nous avons conçu et mis en place une architecture réseau complète comprenant 
   - VLAN pour la segmentation réseau
   - DHCP pour l’adressage automatique
 
-![Architecture réseau](./architecture_reseau.png) *(Schéma réseau détaillé)*
+![Architecture réseau](./schéma/schéma.PNG) *(Schéma réseau détaillé)*
 
 ---
 
