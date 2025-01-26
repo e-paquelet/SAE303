@@ -63,7 +63,7 @@ Nous avons conçu et mis en place une architecture réseau complète comprenant 
 ## 🔍 Audit de sécurité
 
 En tant qu’étudiants en **parcours Cybersécurité**, nous avons réalisé un **audit de sécurité** du réseau grâce à l’outil **Nessus**. 🛡️  
-👉 [Voir le rapport du scan réseau](./scan_reseaux.pdf).
+👉 [Voir le rapport du scan réseau](./scan_reseau.pdf).
 
 ---
 
